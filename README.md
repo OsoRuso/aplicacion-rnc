@@ -4,7 +4,7 @@ Aplicación Diagnostico RNC del proyecto de titulación: Uso de Deep Learning pa
 # IMPORTANTE
 Se debe clonar el repositorio para usar de forma correcta la aplicacion, con el siguiente comando: 
 
-  git lfs clone https://github.com/OsoRuso/aplicacion-rnc.git
+    git lfs clone https://github.com/OsoRuso/aplicacion-rnc.git
   
 En el caso de no tener instalado lfs de git, use este link y siga los pasos de instalacion: https://github.com/git-lfs/git-lfs/releases/download/v3.2.0/git-lfs-windows-v3.2.0.exe
 
@@ -12,10 +12,21 @@ En el caso de no tener instalado lfs de git, use este link y siga los pasos de i
 Se requiere tener instalado Python 3.8 o superior, con un gestor de paquete como pip.
 Abra una terminal y asegúrese de encontrarse en el directorio del repositorio, luego, ejecute las siguientes líneas de comando:
 
-1. pip install -r requirements.txt
+Paso 1:
 
-2. cd PyQT5
+    cd aplicacion-rnc
+    
+Paso 2:
 
-3. python diagnostico_rnc.py
+    pip install -r requirements.txt
+
+Paso 3:
+
+    cd PyQT5
+
+Paso 4:
+
+    python diagnostico_rnc.py
+
 
 Además, se incluye dos imagenes de prueba para la aplicación. 
