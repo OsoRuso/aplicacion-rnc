@@ -17,3 +17,5 @@ Abra una terminal y asegúrese de encontrarse en el directorio del repositorio, 
 2. cd PyQT5
 
 3. python diagnostico_rnc.py
+
+Además, se incluye dos imagenes de prueba para la aplicación. 
