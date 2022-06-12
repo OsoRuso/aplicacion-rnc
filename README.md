@@ -4,7 +4,7 @@ Aplicación Diagnostico RNC del proyecto de titulación: Uso de Deep Learning pa
 # IMPORTANTE
 Se debe clonar el repositorio para usar de forma correcta la aplicacion, con el siguiente comando: 
 
-  git lfs clone [url repositorio]
+  git lfs clone https://github.com/OsoRuso/aplicacion-rnc.git
   
 En el caso de no tener instalado lfs de git, use este link y siga los pasos de instalacion: https://github.com/git-lfs/git-lfs/releases/download/v3.2.0/git-lfs-windows-v3.2.0.exe
 
